@@ -1,9 +1,10 @@
 # Sounding Out Parkinson's Disease
 
+<!--
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
 
 *EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*-->
 
 
 ## Problem Statement <!--- do not change this line -->
@@ -19,7 +20,7 @@ Describe the motivation for this project, why it is relevant, and what its impac
 
 ## Key Results <!--- do not change this line -->
 
-(UPDATE IN README.md)
+<!--(UPDATE IN README.md)
 Enumerate the main results of this project in a list and describe them.
 
 *EXAMPLE:*
@@ -27,16 +28,16 @@ Enumerate the main results of this project in a list and describe them.
 2. *Identified three biases in ChatGPT's responses*
    - *When prompted about this world event*
    - *When prompted about this field of science*
-   - *When prompted about this political party*
+   - *When prompted about this political party*-->
 
 
 ## Methodologies <!--- do not change this line -->
 
-(UPDATE IN README.md)
+<!--(UPDATE IN README.md)
 
 *EXAMPLE:*
 *To accomplish this, we utilized the OpenAI API to interact with ChatGPT, and we designed a custom Python script to generate diverse prompts and collect corresponding responses. The data was then processed and analyzed using pandas, enabling us to detect patterns and biases in the AI model's outputs.*
-*Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
+*Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*-->
 
 
 ## Data Source <!--- do not change this line -->
@@ -56,12 +57,12 @@ Kaggle Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/dipayan
 
 ## Authors <!--- do not change this line -->
 
-*This project was completed in collaboration with:*
-- *Sophia Tang ([sstang@bu[dot]edu](mailto:sstang@bu.edu))*
-- *Fernando Peralta ([fperalta0248@gmail[dot]com](mailto:fperalta0248@gmail.com))*
-- *Alisa Zhang ([alz015@ucsd[dot]edu](mailto:alz015@ucsd.edu))*
+This project was completed in collaboration with:
+- Sophia Tang ([sstang@bu[dot]edu](mailto:sstang@bu.edu))
+- Fernando Peralta ([fperalta0248@gmail[dot]com](mailto:fperalta0248@gmail.com))
+- Alisa Zhang ([alz015@ucsd[dot]edu](mailto:alz015@ucsd.edu))
 
-*Special Thanks to:*
-- *Tatiane Wu Li ([wu@uni[dot]minerva[dot]edu](mailto:wu@uni.minerva.edu))*
-- *Eliza Salamon ([eliza@ai-4-all[dot]org](mailto:eliza@ai-4-all.org))*
-- *Orvil Escalante ([sc_orvil_e@ai-4-all[dot]org](mailto:sc_orvil_e@ai-4-all.org))*
+Special Thanks to:
+- Tatiane Wu Li ([wu@uni[dot]minerva[dot]edu](mailto:wu@uni.minerva.edu))
+- Eliza Salamon ([eliza@ai-4-all[dot]org](mailto:eliza@ai-4-all.org))
+- Orvil Escalante ([sc_orvil_e@ai-4-all[dot]org](mailto:sc_orvil_e@ai-4-all.org))
