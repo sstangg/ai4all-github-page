@@ -1,6 +1,5 @@
-# (UPDATE IN README.md) Project Title
+# Sounding Out Parkinson's Disease
 
-(UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
 
 *EXAMPLE:*
@@ -9,11 +8,14 @@ Briefly describe the purpose/result(s) of your project, the skills you applied, 
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
+Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by the insidious loss of dopamine-producing cells, primarily within the substantia nigra, leading to uncontrolled neuronal firing and impaired motor control. While PD is currently incurable, prompt treatment following an early diagnosis has been shown to improve patients' quality of life significantly  (Solana-Lavalle et.al, 2010). 
 
+This project addresses this crucial need by researching and training supervised machine learning classification models to identify PD based on a rich dataset of speech features extracted from recorded voices, thus offering a non-invasive and highly accessible diagnostic tool.
+
+<!--
+Describe the motivation for this project, why it is relevant, and what its impacts are.
 *EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
+*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*-->
 
 ## Key Results <!--- do not change this line -->
 
@@ -37,31 +39,29 @@ Enumerate the main results of this project in a list and describe them.
 *Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
 
 
-## Data Sources <!--- do not change this line -->
+## Data Source <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+Kaggle Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/dipayanbiswas/parkinsons-disease-speech-signal-features/code?datasetId=209295&sortBy=voteCount)*
 
 ## Technologies Used <!--- do not change this line -->
-
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
 - *Python*
 - *pandas*
-- *OpenAI API*
+- *numpy*
+- *matplotlib*
+- *scikit-learn*
+- *imblearn*
+- *xgboost*
+- *shap*
 
 
 ## Authors <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
 *This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Sophia Tang ([sstang@bu[dot]edu](mailto:sstang@bu.edu))*
+- *Fernando Peralta ([fperalta0248@gmail[dot]com](mailto:fperalta0248@gmail.com))*
+- *Alisa Zhang ([alz015@ucsd[dot]edu](mailto:alz015@ucsd.edu))*
+
+*Special Thanks to:*
+- *Tatiane Wu Li ([wu@uni[dot]minerva[dot]edu](mailto:wu@uni.minerva.edu))*
+- *Eliza Salamon ([eliza@ai-4-all[dot]org](mailto:eliza@ai-4-all.org))*
+- *Orvil Escalante ([sc_orvil_e@ai-4-all[dot]org](mailto:sc_orvil_e@ai-4-all.org))*
