@@ -29,6 +29,8 @@ Enumerate the main results of this project in a list and describe them.
    - *When prompted about this world event*
    - *When prompted about this field of science*
    - *When prompted about this political party*-->
+1. Achieved an 83% accuracy
+2. ROC-AUC Score: 0.81
 
 
 ## Methodologies <!--- do not change this line -->
